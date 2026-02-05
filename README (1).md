@@ -1,4 +1,4 @@
-# ProgrammingAssignment5
+# Client Server Communication
 
 ## Problem Statement
 This program uses a client–server communication model using TCP sockets. The client requests a text file from the server, and the server sends the contents of that file back. It also handles errors when a file is missing or is too long (<255 characters).
